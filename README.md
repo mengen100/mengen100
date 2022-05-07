@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mengen100, a n00b hacker and n00b researcher
-- 👀 I’m interested in OSCP, apollo.
+- 👋 Hi, I’m @mengen100, a n00b hacker
+- 👀 I’m interested in OSCP
 - 📫 How to reach me: mengen100@gmail.com
 
 <!---
