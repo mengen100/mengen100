@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mengen100, a n00b hacker
+- 👋 Hi, I’m @mengen100, a cybersecurity learner
 - 👀 I’m interested in OSCP
 - 📫 How to reach me: mengen100@gmail.com
 
